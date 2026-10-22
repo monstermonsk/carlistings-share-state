@@ -1,12 +1,20 @@
 {
   "url": "https://bluetooth-viruses-warrior-cool.trycloudflare.com",
-  "updated_at": "2026-10-22T00:52:07Z",
-  "updated_epoch": 1792630327,
+  "verified": true,
+  "updated_at": "2026-10-22T00:54:22Z",
+  "updated_epoch": 1792630462,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
+  "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
+  "discovery": {
+    "authoritative": "https://api.github.com/repos/monstermonsk/carlistings-share-state/contents/url.json",
+    "authoritative_header": "Accept: application/vnd.github.raw",
+    "cached_fallback": "https://raw.githubusercontent.com/monstermonsk/carlistings-share-state/main/url.json"
+  },
   "docs": [
     "/API.txt",
     "/LISTINGS-README.txt",
     "/for-alex/REPLY.txt"
-  ]
+  ],
+  "health": "/health"
 }
