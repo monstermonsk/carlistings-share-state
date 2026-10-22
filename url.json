@@ -1,0 +1,12 @@
+{
+  "url": "https://jun-cambridge-texts-motorcycle.trycloudflare.com",
+  "updated_at": "2026-10-22T00:51:35Z",
+  "updated_epoch": 1792630295,
+  "api": "/api/v1",
+  "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
+  "docs": [
+    "/API.txt",
+    "/LISTINGS-README.txt",
+    "/for-alex/REPLY.txt"
+  ]
+}
