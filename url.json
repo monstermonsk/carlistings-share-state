@@ -1,8 +1,8 @@
 {
-  "url": "https://lid-pressing-salvation-routing.trycloudflare.com",
+  "url": "https://blues-assumes-log-calls.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-10-29T20:49:52Z",
-  "updated_epoch": 1793306992,
+  "updated_at": "2026-10-29T21:05:42Z",
+  "updated_epoch": 1793307942,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
