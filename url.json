@@ -1,8 +1,8 @@
 {
-  "url": "https://sol-reasoning-gdp-museums.trycloudflare.com",
+  "url": "https://student-consequently-nutten-dinner.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-03T21:53:03Z",
-  "updated_epoch": 1793742783,
+  "updated_at": "2026-11-03T22:35:30Z",
+  "updated_epoch": 1793745330,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
