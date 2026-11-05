@@ -1,8 +1,8 @@
 {
-  "url": "https://owners-camp-combines-ranking.trycloudflare.com",
+  "url": "https://spice-currently-committees-mail.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-04T15:58:41Z",
-  "updated_epoch": 1793807921,
+  "updated_at": "2026-11-05T14:14:32Z",
+  "updated_epoch": 1793888072,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
