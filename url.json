@@ -1,8 +1,8 @@
 {
-  "url": "https://helping-cincinnati-ecommerce-clean.trycloudflare.com",
-  "verified": true,
-  "updated_at": "2026-11-06T10:55:17Z",
-  "updated_epoch": 1793962517,
+  "url": "https://defining-automatic-wednesday-air.trycloudflare.com",
+  "verified": null,
+  "updated_at": "2026-11-06T15:57:22Z",
+  "updated_epoch": 1793980642,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
