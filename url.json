@@ -1,8 +1,8 @@
 {
-  "url": "https://productive-shark-cardiff-let.trycloudflare.com",
+  "url": "https://cholesterol-dentists-korea-elements.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-07T00:16:37Z",
-  "updated_epoch": 1794010597,
+  "updated_at": "2026-11-07T00:22:16Z",
+  "updated_epoch": 1794010936,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
