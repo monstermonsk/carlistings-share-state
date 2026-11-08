@@ -1,8 +1,8 @@
 {
-  "url": "https://discount-performs-screensavers-suggesting.trycloudflare.com",
+  "url": "https://viii-scale-unlikely-main.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-08T03:15:38Z",
-  "updated_epoch": 1794107738,
+  "updated_at": "2026-11-08T07:40:00Z",
+  "updated_epoch": 1794123600,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
