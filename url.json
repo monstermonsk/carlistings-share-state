@@ -1,8 +1,8 @@
 {
-  "url": "https://modules-html-acc-insertion.trycloudflare.com",
+  "url": "https://sip-due-innovations-refers.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-08T01:20:39Z",
-  "updated_epoch": 1794100839,
+  "updated_at": "2026-11-08T01:40:00Z",
+  "updated_epoch": 1794102000,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
