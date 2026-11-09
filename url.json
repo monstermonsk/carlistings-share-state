@@ -1,8 +1,8 @@
 {
-  "url": "https://anytime-thats-bundle-shops.trycloudflare.com",
+  "url": "https://proposals-emacs-advertiser-arabic.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-09T03:05:14Z",
-  "updated_epoch": 1794193514,
+  "updated_at": "2026-11-09T04:55:08Z",
+  "updated_epoch": 1794200108,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
