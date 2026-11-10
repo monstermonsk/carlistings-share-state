@@ -1,8 +1,8 @@
 {
-  "url": "https://vancouver-mistress-districts-monthly.trycloudflare.com",
+  "url": "https://wear-configuring-wise-estimates.trycloudflare.com",
   "verified": true,
-  "updated_at": "2026-11-09T18:44:06Z",
-  "updated_epoch": 1794249846,
+  "updated_at": "2026-11-10T05:23:50Z",
+  "updated_epoch": 1794288230,
   "api": "/api/v1",
   "note": "Current base URL of the Crankshaft share. The hostname changes when the tunnel restarts; this file does not. Poll it, or re-read it when DNS fails.",
   "cache_warning": "raw.githubusercontent.com can serve this file from cache for a few minutes after an update. For the authoritative value use the GitHub API with 'Accept: application/vnd.github.raw'.",
